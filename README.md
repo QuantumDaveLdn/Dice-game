@@ -1,4 +1,4 @@
-# Advanced Dice Game
+# Dice Game
 
 A modern implementation of a Yahtzee-style dice game where players strategically roll five dice to achieve various combinations and maximize their score.
 
@@ -57,6 +57,10 @@ open index.html    # Mac
 start index.html   # Windows
 ```
 
+# OR
+
+Visit the GitHub Pages site at: https://quantumdaveldn.github.io/Dice-game/
+
 ## Technologies Used
 
 * HTML5
@@ -69,6 +73,7 @@ start index.html   # Windows
 ├── index.html  # Main HTML structure
 ├── styles.css  # Modern styling and responsive design
 ├── script.js   # Game logic and event handling
+├── .gitignore  # Excludes unnecessary files from version control
 └── README.md   # This file
 ```
 
